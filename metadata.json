@@ -1,0 +1,13 @@
+{
+    "assetName": "testasset",
+    "description": "test description",
+    "topics": [
+        "ens-others",
+        "history1",
+        "history2",
+        "ens-asset"
+    ],
+    "associations": [
+        "github.com/test"
+    ]
+}
